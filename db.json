@@ -6,5 +6,46 @@
     "data": null
   },
   
-  "data":[]
+  "data":[
+  
+  {
+    "BatchSource": "WorldBridgeekyc",
+    "MSISDN" : "2313131313",
+    "CountryOfOrigin": "GRC",
+    "RedirectAfterThankYouPage":"https://www.google.com",
+    "Identity": {
+        "DocumentInfo": {
+            "Id": "ΑΒ482237",
+            "IssueDate": "20060526",
+            "Type": "PRADO",
+            "ExpireDate": null,
+            "IssuerId": "6400",
+            "Category": "GRC-BO",
+            "PreviousId": "Ρ318698",
+            "IssuerName": "Υ.Α. ΗΡΑΚΛΕΙΟΥ"
+        },
+        "UserInfo": {
+            "FatherName": "ΓΕΩΡΓΙΟΣ",
+            "BirthYear": "1981",
+            "MotherName": "ΦΡΕΙΔΕΡΙΚΗ",
+            "Name": "ΕΛΕΥΘΕΡΙΑ",
+            "FatherNameLatin": "GEORGIOS",
+            "Surname": "ΔΑΜΙΑΝΑΚΗ",
+            "NameLatin": "ELEFTHERIA",
+            "Gender": "",
+            "BirthDate": "19810102",
+            "BirthPlace": "ΗΡΑΚΛΕΙΟ ΗΡΑΚΛΕΙΟΥ",
+            "Image": "image/jpeg",
+            "MotherNameLatin": "",
+            "SurnameLatin": "DAMIANAKI",
+            "ImageMimeType": "image/jpeg"
+        }
+    }
+}
+
+
+
+
+
+  ]
 }
